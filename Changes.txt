@@ -1,0 +1,27 @@
+
+Modifications:
+
+
+1. For a better readability, renamed compilation unit, variable, method and class names
+
+2. Separated class files
+
+3. Changed constructors of Order and OrderLine classes
+
+4. Initialized an arrayList in Order class
+
+5. Used Java 8 consumer object to print to console
+
+6. Changed prices to accept BigDecimal for arithmetic operations and rounding
+
+7. Storing the same object in the hashmap (used different objects instead of modifying the same and using it again)
+
+8. Accessing an array out of bound (changed loop condition)
+
+9. Added javadoc to all the methods and classes
+
+10. Written test cases to assert some calculations and exceptions thrown using Junit.
+
+
+
+dfasdfasdf
